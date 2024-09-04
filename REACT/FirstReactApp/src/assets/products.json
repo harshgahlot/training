@@ -1,0 +1,39 @@
+[
+    {
+        "id":1,
+        "name":"laptop",
+        "price":"23423",
+        "rating":"4.6"
+    },
+    {
+        "id":2,
+        "name":"tv",
+        "price":"233423",
+        "rating":"4.7"
+    },
+    {
+        "id":3,
+        "name":"headphone",
+        "price":"2342",
+        "rating":"4.9"
+    },
+    {
+        "id":4,
+        "name":"watch",
+        "price":"736487",
+        "rating":"5"
+    },
+    {
+        "id":5,
+        "name":"shoes",
+        "price":"23423",
+        "rating":"4.6"
+    },
+    {
+        "id":6,
+        "name":"tablet",
+        "price":"92739",
+        "rating":"3"
+    }
+    
+]
